@@ -51,7 +51,8 @@ Set the output format for event messages:
 * text (default)
 * json
 
-### --inject-http-proxy-headers
+### --inject-http-root-localhost
+*** //localhost-run/site/edit/main/docs/cli.cmd
 
 Enable http proxy headers.
 
